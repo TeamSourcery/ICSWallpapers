@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2009 Google Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ -->
+
+<resources>
+    <string-array name="wallpapers" translatable="false">
+        <item>wizardess</item>
+        <item>icsourcery_3d</item>
+        <item>icsourcery_bga</item>
+        <item>wallpaper_chroma</item>
+        <item>magic_bg</item>
+        <item>magic_mushroom</item>
+        <item>purelogo</item>
+        <item>android_icecreamsandwich</item>
+        <item>gothic_fantasy</item>
+        <item>gothicwallpaper</item>
+        <item>gothicwallpaper2</item>
+        <item>black_reflection_2_sourcery_icon_db</item>
+        <item>black_reflection_2_sourcery_icon_deepblue</item>
+        <item>black_reflection_2_sourcery_icon_deeppurple</item>
+        <item>flurries_aw5</item>
+        <item>pink_and_black_cro</item>
+        <item>purple_smoke_6bz</item>
+        <item>sourcery_fantasy</item>
+        <item>sourcerylines</item>
+        <item>sourcerymotion</item>
+        <item>sourcerytracks</item>
+        <item>spooky_tree_cx0</item>
+        <item>wizard1</item>
+        <item>wizard2</item>
+        <item>wizard3</item>
+        
+    </string-array>
+
+    <string-array name="info" translatable="false">
+        <item>Wizardess By Team Sourcery</item>
+        <item>ICSourcery_3D By Team Sourcery</item>
+        <item>ICSourcery_Spiral By Team Sourcery</item>
+        <item>Chroma modified by Team Sourcery</item>
+        <item>Magic_Realm By Team Sourcery</item>
+        <item>Magic_Mushroom By Team Sourcery</item>
+        <item>ICS_Logo By Team Sourcery</item>
+        <item>Android IceCream Sandwich By Team Sourcery</item>
+        <item>Gothic_Fantasy By CJM</item>
+        <item>GothicWallpaper By CJM</item>
+        <item>GothicWallpaper By CJM</item>
+        <item>Black_reflection By CJM</item>
+        <item>Black_reflection_2_blue By CJM</item>
+        <item>Black_reflection_2_Purple By CJM</item>
+        <item>Flurries By Team Sourcery</item>
+        <item>Pink-and-Black By Team Sourcery</item>
+        <item>purple-smoke By Team Sourcery</item>
+        <item>Sourcery Fantasy By CJM</item>
+        <item>SourceryLines By Nemo Aeternamn</item>
+        <item>SourceryMotion By Nemo Aeternamn</item>
+        <item>SourceryTracks By Nemo Aeternamn</item>
+        <item>Spooky-Tree-By Team Sourcery</item>
+        <item>wizard 1 By johnnyb15613</item>
+        <item>wizard 2 By johnnyb15613</item>
+        <item>wizard 3 By johnnyb15613</item>
+       </string-array>
+
+</resources>
