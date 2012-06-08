@@ -42,6 +42,17 @@
         <item>wizard1</item>
         <item>wizard2</item>
         <item>wizard3</item>
+
+        <item>hand_v3_2</item>
+        <item>hand_v3_3_1</item>
+        <item>hand_v3_3_2</item>
+        <item>icswizard1</item>
+        <item>icswizard2</item>
+        <item>icswizard3</item>
+        <item>icswizard4</item>
+        <item>icswizard5</item>
+        <item>icswizard6</item>
+        <item>sourcery_smoke1</item>
         
     </string-array>
 
@@ -71,6 +82,16 @@
         <item>wizard 1 By johnnyb15613</item>
         <item>wizard 2 By johnnyb15613</item>
         <item>wizard 3 By johnnyb15613</item>
+        <item>hand_v3_2 By CJM</item>
+        <item>hand_v3_3.1 By CJM</item>
+        <item>hand_v3_3.2 By CJM</item>
+        <item>icswizard1 By johnnyb15613</item>
+        <item>icswizard2 By johnnyb15613</item>
+        <item>icswizard3 By johnnyb15613</item>
+        <item>icswizard4 By johnnyb15613</item>
+        <item>icswizard5 By johnnyb15613</item>
+        <item>icswizard6 By johnnyb15613</item>
+        <item>sourcery_smoke1 By atreyu381 /item>
        </string-array>
 
 </resources>
