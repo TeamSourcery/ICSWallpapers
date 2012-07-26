@@ -17,6 +17,14 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
+        <item>jbsourcery</item>
+        <item>soucerysafehaven</item>
+        <item>sourcerybrokenworld</item>
+        <item>sourcerycosmic</item>
+        <item>sourceryearthdestroyer</item>
+        <item>sourceryelectrifying</item>
+        <item>sourcerylightup</item>
+        <item>sourceryritual</item>
         <item>wizardess</item>
         <item>icsourcery_3d</item>
         <item>icsourcery_bga</item>
@@ -42,7 +50,6 @@
         <item>wizard1</item>
         <item>wizard2</item>
         <item>wizard3</item>
-
         <item>hand_v3_2</item>
         <item>hand_v3_3_1</item>
         <item>hand_v3_3_2</item>
@@ -53,10 +60,17 @@
         <item>icswizard5</item>
         <item>icswizard6</item>
         <item>sourcery_smoke1</item>
-        
     </string-array>
 
     <string-array name="info" translatable="false">
+        <item>JBSourcery By atreyu381</item>
+        <item>Sourcery SafeHaven By Alastrionia</item>
+        <item>Sourcery Brokenworld By Alastrionia</item>
+        <item>Sourcery Cosmic By Alastrionia</item>
+        <item>Sourcery Earth Destroyer By Alastrionia</item>
+        <item>Sourcery Electrifying By Alastrionia</item>
+        <item>Sourcery Lightup By Alastrionia</item>
+        <item>Sourcery Ritual By Alastrionia</item>
         <item>Wizardess By Team Sourcery</item>
         <item>ICSourcery_3D By Team Sourcery</item>
         <item>ICSourcery_Spiral By Team Sourcery</item>

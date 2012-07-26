@@ -21,6 +21,6 @@ LOCAL_SRC_FILES := $(call all-subdir-java-files)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := ICSourceryWallpapers
+LOCAL_PACKAGE_NAME := JBSourceryWallpapers
 
 include $(BUILD_PACKAGE)

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">ICSourcery Wallpapers</string>
-<string name="app_label">ICSourcery Wallpapers</string>
+<string name="app_name">JBSourcery Wallpapers</string>
+<string name="app_label">JBSourcery Wallpapers</string>
 <string name="set_wallpaper">Set wallpaper</string>
 <string name="no_wallpaper">No wallpaper</string>
 </resources>
