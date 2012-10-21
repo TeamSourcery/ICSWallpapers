@@ -17,22 +17,41 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
+        <item>firets</item>
+        <item>hdts</item>
+        <item>icets</item>
+        <item>jeansts</item>
+        <item>lights</item>
+        <item>monsterts</item>
+        <item>speakerts</item>
+        <item>speedts</item>
+        <item>spherets</item>
+        <item>boardts</item>
+        <item>wallts</item>
+        <item>d_beachts</item>
+        <item>eagle</item>
+        <item>jbsourcery1</item>
+        <item>jbsourcery2</item>
+        <item>jbsourcery3</item>
+        <item>jbsourcery4</item>
+        <item>jbsourcery5</item>
+        <item>jbsourcery6</item>
+        <item>a12ts</item>
+        <item>acests</item>
+        <item>androcubets</item>
+        <item>bubblests</item>
+        <item>globets</item>
+        <item>skyts</item>
+        <item>bluets</item>
+        <item>blocksts</item>
+        <item>boatts</item>
         <item>jbsourcery</item>
-        <item>soucerysafehaven</item>
         <item>sourcerybrokenworld</item>
         <item>sourcerycosmic</item>
         <item>sourceryearthdestroyer</item>
-        <item>sourceryelectrifying</item>
-        <item>sourcerylightup</item>
-        <item>sourceryritual</item>
         <item>wizardess</item>
-        <item>icsourcery_3d</item>
-        <item>icsourcery_bga</item>
-        <item>wallpaper_chroma</item>
         <item>magic_bg</item>
         <item>magic_mushroom</item>
-        <item>purelogo</item>
-        <item>android_icecreamsandwich</item>
         <item>gothic_fantasy</item>
         <item>gothicwallpaper</item>
         <item>gothicwallpaper2</item>
@@ -53,32 +72,45 @@
         <item>hand_v3_2</item>
         <item>hand_v3_3_1</item>
         <item>hand_v3_3_2</item>
-        <item>icswizard1</item>
-        <item>icswizard2</item>
-        <item>icswizard3</item>
-        <item>icswizard4</item>
-        <item>icswizard5</item>
-        <item>icswizard6</item>
         <item>sourcery_smoke1</item>
     </string-array>
 
     <string-array name="info" translatable="false">
+        <item>FireTS By Chizzele</item>
+        <item>HDTS By Chizzele</item>
+        <item>IceTS By Chizzele</item>
+        <item>JeansTS By Chizzele</item>
+        <item>Lights By Chizzele</item>
+        <item>MonsterTS By Chizzele</item>
+        <item>SpeakerTS By Chizzele</item>
+        <item>SpeedTS By Chizzele</item>
+        <item>SphereTS By Chizzele</item>
+        <item>BoardTS By Chizzele</item>
+        <item>WallTS By Chizzele</item>
+        <item>3D_BeachTS By Chizzele</item>
+        <item>Eagle</item>
+        <item>JBSourcery1--By ??</item>
+        <item>JBSourcery2--By ??</item>
+        <item>JBSourcery3 By justen7723</item>
+        <item>JBSourcery4 By Atreyu</item>
+        <item>JBSourcery5 By justen7723</item>
+        <item>JBSourcery6 By dianeofarcadia</item>
+        <item>A12TS By Chizzele</item>
+        <item>AcesTS By Chizzele</item>
+        <item>AndroCubeTS By Chizzele</item>
+        <item>BubblesTS By Chizzele</item>
+        <item>GlobeTS By Chizzele</item>
+        <item>SkyTS By Chizzele</item>
+        <item>BlueTS By Chizzele</item>
+        <item>BlocksTS By Chizzele</item>
+        <item>BoatTS By Chizzele</item>
         <item>JBSourcery By atreyu381</item>
-        <item>Sourcery SafeHaven By Alastrionia</item>
         <item>Sourcery Brokenworld By Alastrionia</item>
         <item>Sourcery Cosmic By Alastrionia</item>
         <item>Sourcery Earth Destroyer By Alastrionia</item>
-        <item>Sourcery Electrifying By Alastrionia</item>
-        <item>Sourcery Lightup By Alastrionia</item>
-        <item>Sourcery Ritual By Alastrionia</item>
         <item>Wizardess By Team Sourcery</item>
-        <item>ICSourcery_3D By Team Sourcery</item>
-        <item>ICSourcery_Spiral By Team Sourcery</item>
-        <item>Chroma modified by Team Sourcery</item>
         <item>Magic_Realm By Team Sourcery</item>
         <item>Magic_Mushroom By Team Sourcery</item>
-        <item>ICS_Logo By Team Sourcery</item>
-        <item>Android IceCream Sandwich By Team Sourcery</item>
         <item>Gothic_Fantasy By CJM</item>
         <item>GothicWallpaper By CJM</item>
         <item>GothicWallpaper By CJM</item>
@@ -99,12 +131,6 @@
         <item>hand_v3_2 By CJM</item>
         <item>hand_v3_3.1 By CJM</item>
         <item>hand_v3_3.2 By CJM</item>
-        <item>icswizard1 By johnnyb15613</item>
-        <item>icswizard2 By johnnyb15613</item>
-        <item>icswizard3 By johnnyb15613</item>
-        <item>icswizard4 By johnnyb15613</item>
-        <item>icswizard5 By johnnyb15613</item>
-        <item>icswizard6 By johnnyb15613</item>
         <item>sourcery_smoke1 By atreyu381</item>
        </string-array>
 
